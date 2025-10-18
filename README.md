@@ -1,10 +1,10 @@
 # Emotional Health Advisor
 
 ## GROUP 3: Team Members  
-- [Rima Alenaizi] [444200680]  : Wrote and refined the README file,added Statistics 
-- [Danah Alrasheed] [444200630] : Text Data Cleaning 
-- [Rand Alshalan] [444200940] : Exploring target class and adress the imbalance issue
-- [Aljawharh Alosaimi] [444203043] : Exploring target class and adress the imbalance issue
+- [Rima Alenaizi] [444200680]  : Wrote and refined the README file, and added statistical summaries.
+- [Danah Alrasheed] [444200630] :Handled text data cleaning and preprocessing.
+- [Rand Alshalan] [444200940] : Explored the target class and addressed the data imbalance issue.
+- [Aljawharh Alosaimi] [444203043] :Explored the target class and addressed the data imbalance issue.
 - [Arubah Alshammari] [444200805] :loading and exploring dataset.
 
 ## Project Idea & Motivation  
