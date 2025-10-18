@@ -1,4 +1,4 @@
-# Emotional Health Advisor
+# AURA: Emotional Health Advisor
 
 ## GROUP 3: Team Members  
 - [Rima Alenaizi] [444200680]  : Wrote and refined the README file, and added statistical summaries.
