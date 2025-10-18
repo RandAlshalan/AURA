@@ -1,6 +1,6 @@
 # Emotional Health Advisor
 
-## Team Members  
+## GROUP 3: Team Members  
 - [Rima Alenaizi] [444200680]  : README File, motivation and dataset documentation, and results summary
 - [Danah Alrasheed] [444200630] : Data cleaning and text preprocessing functions
 - [Rand Alshalan] [444200940] :Project coordination, dataset preprocessing, and notebook structure setup.
