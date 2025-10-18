@@ -4,7 +4,7 @@
 - [Rima Alenaizi] [444200680]  
 - [Danah Alrasheed] [444200630] 
 - [Rand Alshalanal] [444200940] 
-- [Aljawharh Alosaimi] [444203034]  
+- [Aljawharh Alosaimi] [444203043]  
 - [Arubah Alshammari] [444200805]  
 
 ## Project Idea & Motivation  
