@@ -1,11 +1,11 @@
 # Emotional Health Advisor
 
 ## Team Members  
-- [Rima Alenaizi] [444200680]  
-- [Danah Alrasheed] [444200630] 
-- [Rand Alshalanal] [444200940] 
-- [Aljawharh Alosaimi] [444203043]  
-- [Arubah Alshammari] [444200805]  
+- [Rima Alenaizi] [444200680]  : README File, motivation and dataset documentation, and results summary
+- [Danah Alrasheed] [444200630] : Data cleaning and text preprocessing functions
+- [Rand Alshalanal] [444200940] :Project coordination, dataset preprocessing, and notebook structure setup.
+- [Aljawharh Alosaimi] [444203043]  :Exploratory Data Analysis: visualizations, class distribution, and insights
+- [Arubah Alshammari] [444200805]  :Kaggle dataset integration, notebook formatting.
 
 ## Project Idea & Motivation  
 Many people go through emotional changes every day because of stress, work, or personal challenges. However, they often find it difficult to understand how they feel.  
