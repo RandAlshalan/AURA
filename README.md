@@ -1,5 +1,7 @@
 # AURA: Emotional Health Advisor
 
+presentation Link : https://www.canva.com/design/DAG6rrbeBPk/EcDnzH2k_AFoGSwri10jHQ/view?utm_content=DAG6rrbeBPk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89253e3c76
+
 ## GROUP 3: Team Members  
 - [Rima Alenaizi] [444200680]  : Wrote and refined the README file, and added statistical summaries.
 - [Danah Alrasheed] [444200630] :Handled text data cleaning and preprocessing.
