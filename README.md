@@ -3,11 +3,11 @@
 presentation Link : https://www.canva.com/design/DAG6rrbeBPk/EcDnzH2k_AFoGSwri10jHQ/view?utm_content=DAG6rrbeBPk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89253e3c76
 
 ## GROUP 3: Team Members  
-- [Rima Alenaizi] [444200680]  : Wrote and refined the README file, and added statistical summaries.
-- [Danah Alrasheed] [444200630] :Handled text data cleaning and preprocessing.
-- [Rand Alshalan] [444200940] : Explored the target class and addressed the data imbalance issue.
-- [Aljawharh Alosaimi] [444203043] :Explored the target class and addressed the data imbalance issue.
-- [Arubah Alshammari] [444200805] :loading and exploring dataset.
+- [Rima Alenaizi] [444200680]  
+- [Danah Alrasheed] [444200630] 
+- [Rand Alshalan] [444200940] 
+- [Aljawharh Alosaimi] [444203043] 
+- [Arubah Alshammari] [444200805] 
 
 ## Project Idea & Motivation  
 Many people go through emotional changes every day because of stress, work, or personal challenges. However, they often find it difficult to understand how they feel.  
